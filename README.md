@@ -76,4 +76,26 @@ Plateforme web permettant la gestion des emplois du temps et du cahier de textes
 
 ---
 
-## 🌐 Portf
+## 🌐 Portfolio en ligne
+
+🔗 https://agnealhousseynou.github.io/Second-portfolio/
+
+---
+
+## 📩 Contact
+
+📧 Email : agnealhousseynou@gmail.com  
+🔗 LinkedIn : https://www.linkedin.com/in/alhousseynou-agne-a2a44b279/  
+🐙 GitHub : https://agnealhousseynou.github.io/Second-portfolio/  
+📱 Téléphone : +221 77 845 40 68 / +221 77 012 14 35  
+
+---
+
+## 🎯 Objectif Professionnel
+
+Évoluer vers un profil d’ingénieur en Télécommunications & Réseaux capable de concevoir, sécuriser et optimiser des infrastructures réseaux performantes et fiables.
+
+---
+
+© 2026 – Alhousseynou Agne
+
